@@ -1,4 +1,4 @@
-//Q.16b) – Write a java program using swing that accept item name, item quantity and 
+//Q. Write a java program using swing that accept item name, item quantity and 
 //price and display total amount as an output (in separate textbox).
 import java.awt.*;
 import java.awt.event.*;
