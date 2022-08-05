@@ -1,4 +1,4 @@
-//Q.3b) - Create a calculator with functionality in an Applet.
+//Q. Create a calculator with functionality in an Applet.
 
 import java.applet.*;
 import java.awt.*;
