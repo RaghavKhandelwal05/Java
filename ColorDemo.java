@@ -1,4 +1,4 @@
-//Q.20b) – Write an AWT application that contains a frame and two buttons RED and 
+//Q. Write an AWT application that contains a frame and two buttons RED and 
 //BLUE. On clicking the button give respective colour to the frame
 
 import java.awt.*;
