@@ -1,4 +1,4 @@
-//Q.4b) – Write a java program to copy the contents of one file into the another file, while 
+//Q. Write a java program to copy the contents of one file into the another file, while 
 //copying change the case of alphabets and replace all the digits by ‘*’ in target 
 //file.
 
