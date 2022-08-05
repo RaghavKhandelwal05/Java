@@ -1,4 +1,4 @@
-/*Q.14b) – Write a Java program to create class Employee (eno,ename,age,salary).If 
+/* Write a Java program to create class Employee (eno,ename,age,salary).If 
 age is less than 18 then raise an exception ‘Age not valid Exception’ else display the 
 record .*/
  
