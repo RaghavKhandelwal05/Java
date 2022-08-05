@@ -1,4 +1,4 @@
-/*Q.12a) – Write a java program that displays the number of characters, lines & words 
+/*Q. Write a java program that displays the number of characters, lines & words 
 from a file.*/
 
 import java.io.*;
