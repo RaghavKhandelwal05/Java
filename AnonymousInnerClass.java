@@ -1,4 +1,4 @@
-//Q.17a) – Write a Java program to display the working of AnonymousInnerClass.
+//Q. Write a Java program to display the working of AnonymousInnerClass.
 import java.awt.*;
 import java.awt.event.*;
 import java.applet.*;
