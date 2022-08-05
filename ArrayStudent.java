@@ -1,4 +1,4 @@
-//Q.9a) - Write a java program to read n Students names from user, store them into the 
+//Q. Write a java program to read n Students names from user, store them into the 
 //        ArrayList collection. The program should not allow duplicate names. Display the 
 //        names in Ascending order.
 
